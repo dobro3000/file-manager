@@ -1,0 +1,21 @@
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe.config
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\server.exe
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\server.pdb
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\test prog.dll
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\FilesDirs.dll
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\Ionic.Zip.dll
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\test prog.pdb
+c:\users\добро\documents\visual studio 2015\Projects\server\server\bin\Debug\FilesDirs.pdb
+c:\users\добро\documents\visual studio 2015\Projects\server\server\obj\Debug\server.exe
+c:\users\добро\documents\visual studio 2015\Projects\server\server\obj\Debug\server.pdb
+C:\Users\Добро\Desktop\server\server\bin\Debug\server.exe.config
+C:\Users\Добро\Desktop\server\server\obj\Debug\server.exe
+C:\Users\Добро\Desktop\server\server\obj\Debug\server.pdb
+C:\Users\Добро\Desktop\server\server\bin\Debug\server.exe
+C:\Users\Добро\Desktop\server\server\bin\Debug\server.pdb
+C:\Users\Добро\Desktop\server\server\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\server\server\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\server\server\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\server\server\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\server\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\server\server\obj\Debug\server.csprojResolveAssemblyReference.cache

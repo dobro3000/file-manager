@@ -1,0 +1,35 @@
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\Client.exe.config
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\Client.exe
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\Client.pdb
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\obj\Debug\Client.exe
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\obj\Debug\Client.pdb
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\test prog.dll
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\FilesDirs.dll
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\Ionic.Zip.dll
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\test prog.pdb
+c:\Users\Добро\documents\visual studio 2015\Projects\server\Client\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\Client\bin\Debug\Client.exe.config
+C:\Users\Добро\Desktop\server\Client\obj\Debug\Client.exe
+C:\Users\Добро\Desktop\server\Client\obj\Debug\Client.pdb
+C:\Users\Добро\Desktop\server\Client\bin\Debug\Client.exe
+C:\Users\Добро\Desktop\server\Client\bin\Debug\Client.pdb
+C:\Users\Добро\Desktop\server\Client\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\server\Client\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\server\Client\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\server\Client\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\Client\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\server\Client\bin\Debug\Client.exe.config
+F:\server\Client\obj\Debug\Client.exe
+F:\server\Client\obj\Debug\Client.pdb
+F:\server\Client\bin\Debug\Client.exe
+F:\server\Client\bin\Debug\Client.pdb
+F:\server\Client\bin\Debug\FilesDirs.dll
+F:\server\Client\bin\Debug\test prog.dll
+F:\server\Client\bin\Debug\Ionic.Zip.dll
+F:\server\Client\bin\Debug\FilesDirs.pdb
+F:\server\Client\bin\Debug\test prog.pdb
+F:\server\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+H:\server\Client\bin\Debug\Client.exe.config
+H:\server\Client\obj\Debug\Client.exe
+H:\server\Client\obj\Debug\Client.pdb
