@@ -1,0 +1,26 @@
+Welcome to "Lord of the files".
+
+What's good about our product?
+
+We have everything you need for working with files and directories.
+
+Simple interface.
+
+Double window allows you to easily view the contents of directories.
+
+This version of LOFT provides the opportunity to delete, create, edit, archive, encrypt, move, copy files and directories.
+
+Requires minimal amount of computer resources.
+
+
+A list of commands:
+
+Delete - delete object.
+Create - creates object. 
+MoveTo - moves the object at the specified path.
+Uncoding - encrypts object
+Decoding - Deseret object. 
+Arhiving - archives the object.
+Desarhiving - unarchives the object. 
+CopyTo - copies the object. 
+Rename - renames the object to a random name.

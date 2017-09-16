@@ -1,0 +1,11 @@
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\serverPRO.exe.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\serverPRO.exe
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\serverPRO.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\obj\Debug\serverPRO.exe
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\obj\Debug\serverPRO.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\obj\Debug\serverPRO.csprojResolveAssemblyReference.cache

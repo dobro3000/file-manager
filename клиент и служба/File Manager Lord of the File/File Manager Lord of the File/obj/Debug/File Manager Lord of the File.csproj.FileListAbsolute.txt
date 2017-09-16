@@ -1,0 +1,62 @@
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe.config
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.About.resources
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainForm.resources
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Help.resources
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainUserControl.resources
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Properties.Resources.resources
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csproj.GenerateResource.Cache
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.exe
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csprojResolveAssemblyReference.cache
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe.config
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.exe
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.pdb
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.pdb
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.dll
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\Ionic.Zip.dll
+F:\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.pdb
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.About.resources
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainForm.resources
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Help.resources
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainUserControl.resources
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Properties.Resources.resources
+F:\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csproj.GenerateResource.Cache
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe.config
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.exe
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.pdb
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.pdb
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.dll
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\Ionic.Zip.dll
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.pdb
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csprojResolveAssemblyReference.cache
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.About.resources
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainForm.resources
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Help.resources
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainUserControl.resources
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Properties.Resources.resources
+H:\Новая папка\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csproj.GenerateResource.Cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.exe
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.About.resources
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainForm.resources
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Help.resources
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.mainUserControl.resources
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File_Manager_Lord_of_the_File.Properties.Resources.resources
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csproj.GenerateResource.Cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\File Manager Lord of the File\bin\Debug\File Manager Lord of the File.exe.config
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.exe
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\File Manager Lord of the File\obj\Debug\File Manager Lord of the File.pdb

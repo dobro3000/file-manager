@@ -1,0 +1,58 @@
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll.config
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll
+H:\ClassProgram\ClassProgram\bin\Debug\FilesDirs.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.xml
+H:\ClassProgram\ClassProgram\obj\Debug\FilesDirs.dll
+H:\ClassProgram\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+F:\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+F:\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+F:\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+F:\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+F:\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache
+F:\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+F:\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\ClassProgram\obj\Debug\FilesDirs.csprojResolveAssemblyReference.cache

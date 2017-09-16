@@ -1,0 +1,28 @@
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csprojResolveAssemblyReference.cache
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+c:\users\dk12\documents\visual studio 2012\Projects\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe.config
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\obj\Debug\WindowsService2.ProjectInstaller.resources
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\obj\Debug\WindowsService2.csproj.GenerateResource.Cache
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\obj\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\obj\Debug\WindowsService2.pdb

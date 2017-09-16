@@ -1,0 +1,87 @@
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.exe.config
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.exe
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\ClassProgram\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.exe
+C:\Users\Добро\Desktop\ClassProgram\test prog\obj\Debug\test prog.pdb
+G:\ClassProgram\test prog\bin\Debug\test prog.exe.config
+G:\ClassProgram\test prog\obj\Debug\test prog.exe
+G:\ClassProgram\test prog\obj\Debug\test prog.pdb
+E:\ClassProgram\test prog\bin\Debug\test prog.exe.config
+E:\ClassProgram\test prog\obj\Debug\test prog.exe
+E:\ClassProgram\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.exe.config
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.exe
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.exe
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.exe.config
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.exe
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.exe
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+F:\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Documents\Visual Studio 2015\Projects\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+C:\Users\Добро\Desktop\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+F:\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+F:\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+F:\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+F:\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\server\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\serverPRO\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.dll
+C:\Users\Добро\Desktop\File Manager Lord of the File\ClassProgram конечный результат\test prog\obj\Debug\test prog.pdb

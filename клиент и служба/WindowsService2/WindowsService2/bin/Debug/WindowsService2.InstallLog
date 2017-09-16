@@ -1,0 +1,238 @@
+﻿Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service1...
+Создается исходный EventLog Service1 в журнале Application...
+Выполняется откат для сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Восстанавливается исходное состояние журнала событий для источника Service1.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service125...
+Служба Service125 успешно установлена.
+Создается исходный EventLog Service125 в журнале Application...
+Выполняется фиксация сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog Service125.
+Выполняется удаление службы Service125 из системы...
+Служба Service125 успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба Service125...
+Служба Service125 успешно установлена.
+Создается исходный EventLog Service125 в журнале Application...
+Выполняется фиксация сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog Service125.
+Выполняется удаление службы Service125 из системы...
+Служба Service125 успешно удалена из системы.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Попытка останова службы ServiceExample.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Попытка останова службы ServiceExample.
+Выполняется установка сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = c:\Users\dk12\Documents\Visual Studio 2012\Projects\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Попытка останова службы ServiceExample.
+Выполняется установка сборки 'C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется откат для сборки 'C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Восстанавливается исходное состояние журнала событий для источника ServiceExample.
+При выполнении программы установки System.Diagnostics.EventLogInstaller на этапе отката возникло исключение.
+System.Security.SecurityException: Источник не найден, но не удалось выполнить поиск по нескольким или всем журналам событий.  Недоступные журналы: Security.
+На этапе отката процедуры установки возникло исключение. Это исключение будет проигнорировано, и откат будет продолжен. Однако после завершения отката компьютер может не вернуться полностью в исходное состояние.
+Выполняется установка сборки 'C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\server\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Выполняется удаление службы ServiceExample из системы...
+Служба ServiceExample успешно удалена из системы.
+Попытка останова службы ServiceExample.
+Выполняется установка сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Устанавливается служба ServiceExample...
+Служба ServiceExample успешно установлена.
+Создается исходный EventLog ServiceExample в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление сборки 'C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.InstallLog
+   assemblypath = C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\WindowsService2\bin\Debug\WindowsService2.exe
+Выполняется удаление источника EventLog ServiceExample.
+Предупреждение. Источник ServiceExample не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ServiceExample из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.

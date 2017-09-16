@@ -1,0 +1,41 @@
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.exe
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.pdb
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\dk12\documents\visual studio 2012\Projects\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+H:\Новая папка (2)\Projects\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+H:\Новая папка (2)\Projects\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+H:\Новая папка (2)\Projects\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Desktop\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.pdb
+C:\Users\Добро\Desktop\server\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.exe
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\test prog.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\FilesDirs.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\Ionic.Zip.dll
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\WindowsService2.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\test prog.pdb
+C:\Users\Добро\Desktop\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\FilesDirs.pdb
+C:\Users\Добро\Desktop\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Desktop\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Добро\Desktop\раб стол\File Manager Lord of the File\Новая папка\WindowsService2\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
