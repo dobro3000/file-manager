@@ -1,0 +1,16 @@
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\bin\Debug\ClassProgram.dll.config
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\bin\Debug\ClassProgram.dll
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\bin\Debug\ClassProgram.pdb
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\obj\Debug\ClassProgram.csprojResolveAssemblyReference.cache
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\obj\Debug\ClassProgram.dll
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\obj\Debug\ClassProgram.pdb
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.pdb
+c:\users\добро\documents\visual studio 2012\Projects\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.xml
+H:\ClassProgram\ClassProgram\obj\Debug\ClassProgram.csprojResolveAssemblyReference.cache
+H:\ClassProgram\ClassProgram\obj\Debug\ClassProgram.dll
+H:\ClassProgram\ClassProgram\obj\Debug\ClassProgram.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\ClassProgram.dll.config
+H:\ClassProgram\ClassProgram\bin\Debug\ClassProgram.dll
+H:\ClassProgram\ClassProgram\bin\Debug\ClassProgram.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.pdb
+H:\ClassProgram\ClassProgram\bin\Debug\Ionic.Zip.xml
